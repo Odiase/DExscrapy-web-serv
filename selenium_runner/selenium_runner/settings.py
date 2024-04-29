@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-jy$fp#go1cjv@=9ju9m&+!+9)j&_3yvmqd+&(zji6oc9zsub(7
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["dexscrapy-web-serv.onrender.com"]
 
 
 # Application definition
